@@ -54,6 +54,7 @@ plt.show()
 
 ## Output:
 HEAD:
+
 ![318810687-c5637683-ec58-4738-bf8c-c0598ea5e364](https://github.com/Bakkiyalakshmi29/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119406233/49f7b75e-33fd-4fc7-ad6d-b365e87d432d)
 
 MSE:
