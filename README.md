@@ -55,9 +55,13 @@ plt.show()
 ## Output:
 HEAD:
 ![318810687-c5637683-ec58-4738-bf8c-c0598ea5e364](https://github.com/Bakkiyalakshmi29/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119406233/49f7b75e-33fd-4fc7-ad6d-b365e87d432d)
+
 MSE:
+
 ![318810969-89af8160-53d6-4274-b3bf-dca17bb9429c](https://github.com/Bakkiyalakshmi29/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119406233/15fadadb-f193-4742-af7c-33b83d0e25c0)
+
 r2:
+
 ![318811311-10f5f2e7-c755-49e3-9348-1ac121c737af](https://github.com/Bakkiyalakshmi29/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119406233/a3ffe252-be82-42cd-8386-ab3ff05a4be5)
 
 ![318811569-375af8d4-30a0-4cec-8312-2ca3d23e7948](https://github.com/Bakkiyalakshmi29/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119406233/f3290fd3-106f-400a-a6d4-1a324b34bc15)
